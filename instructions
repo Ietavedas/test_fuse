@@ -4,5 +4,4 @@
 разработка велась в папке app
 для запуска сборки gulp 
 2. npm install
-3. npm i --save-dev gulp-cache
-4. gulp dev
+3. gulp dev
